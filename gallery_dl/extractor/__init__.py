@@ -225,6 +225,7 @@ modules = [
     "uploadir",
     "urlshortener",
     "vanillarock",
+    "vanlifetrader",
     "vichan",
     "vipergirls",
     "vk",
